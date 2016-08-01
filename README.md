@@ -1,3 +1,3 @@
-# cthompso.github.io
-Personal Portfolio of Colin Hayes Thmopson
+# Portfolio Readme
 
+Portfolio of Colin Hayes Thompson
